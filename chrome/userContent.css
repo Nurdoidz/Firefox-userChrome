@@ -1,0 +1,6 @@
+:root {
+    --theme-code-font-size: 12px !important;
+}
+:root[platform="win"] {
+    --monospace-font-family: "Victor Mono Medium", Consolas, monospace !important;
+}
